@@ -1,12 +1,11 @@
 # Who is Agape Keleta?
-I am a 15 year old software developer from New York, USA. I've worked with quite a few companies, and most recently my own [Many Social](https://many.app), A software solution that centralizes the management of all your social media accounts, streamlines team collaboration, and empowers impactful, data-driven marketing decisions. I have a passion for automation and firmly believe that by automating our daily tasks, we can drastically accelerate the pace of human evolution.
 
-In my spare time, I enjoy delving into quantum physics and its fascinating theories, exploring concepts like superposition and entanglement. I also have a passion for creating and scaling bootstrapped companies, focusing on innovative solutions and sustainable growth strategies.
+I’m Agape Keleta, a 15-year-old software developer from New York, USA. My name is pronounced *uh-gah-pay*. Over the years, I’ve collaborated with several companies and am now focused on my own venture, [Many Social](https://many.app) — a powerful software platform that simplifies social media management, enhances team collaboration, and drives impactful, data-informed marketing strategies.
 
-# Reach me here
-The best ways to reach me are on [X](https://x.com/agapekl) and [LinkedIn](https://www.linkedin.com/in/agape-keleta-8301522ab/) (mostly x)
+I’m deeply passionate about automation and believe it holds the key to unlocking a faster, more innovative future for humanity by streamlining everyday tasks.  
 
-<!---
-agapekl/agapekl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+When I’m not building software, you’ll find me exploring the fascinating world of quantum physics, diving into concepts like superposition and entanglement. I also love creating and scaling bootstrapped companies, channeling my energy into solving real-world problems with sustainable and innovative solutions.  
+
+# Let’s Connect
+
+The best way to reach me is on [X](https://x.com/agapekl) or [LinkedIn](https://www.linkedin.com/in/agape-keleta-8301522ab/) (I’m more active on X!).
